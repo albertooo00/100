@@ -1,8 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        boolean payment = true;
         int percent;
-        if(payment) {
+        if() {          //Что тут тогда писать в скобках????????????????????
             percent = 100;
         } else {
             percent = 1;
@@ -14,5 +13,6 @@ public class Main {
             bonus = 0;
         }
         System.out.println(bonus);
+
     }
 }
